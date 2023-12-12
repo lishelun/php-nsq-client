@@ -1,5 +1,5 @@
 {
-  "name": "kdt-lib/queue",
+  "name": "lishelun/kdt-queue",
   "config": { "secure-http": false },
   "require": {
     "react/react": ">=0.2.1"
